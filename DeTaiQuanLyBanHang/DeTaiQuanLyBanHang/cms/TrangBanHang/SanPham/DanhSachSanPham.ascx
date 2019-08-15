@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="DanhSachSanPham.ascx.cs" Inherits="DeTaiQuanLyBanHang.cms.TrangBanHang.SanPham.DanhSachSanPham" %>
+<asp:Literal ID="ltSanPham" runat="server"></asp:Literal>

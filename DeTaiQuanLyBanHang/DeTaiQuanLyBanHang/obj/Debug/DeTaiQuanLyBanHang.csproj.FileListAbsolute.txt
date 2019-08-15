@@ -1,0 +1,7 @@
+G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\bin\DeTaiQuanLyBanHang.dll.config
+G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\bin\DeTaiQuanLyBanHang.dll
+G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\bin\DeTaiQuanLyBanHang.pdb
+G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.csproj.CoreCompileInputs.cache
+G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.dll
+G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.pdb
+G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.csprojResolveAssemblyReference.cache

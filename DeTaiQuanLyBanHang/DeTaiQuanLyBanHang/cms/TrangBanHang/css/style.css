@@ -1,0 +1,67 @@
+﻿* {margin: 0;padding: 0}
+body {font: bold 13px arial;margin: 0px;padding: 0px;color: #FFF;}
+.wrapper {width: 1000px;margin: auto;background-color: #f1f1f1;overflow: hidden;}
+.clear {clear: both;}
+a{text-decoration: none;color: #FFF;}
+.fl {float: left;}
+
+/*Top*/
+
+.top {width: 1000px;margin-top: 20px;}
+.top ul {list-style: none; width: 5000px;}
+.top ul li {float: left;width: 1000px;}
+.top ul li img { width: 1000px;height: 200px;}
+/*.top .logo {background-image: url('../../../pic/BANNER.jpg');height: 200px;background-repeat: no-repeat; background-size: 100% 100%;}*/
+
+/*Thông tin user*/
+.user {float: right;color: black;}
+.user .Dangxuat {border: none;color: black;cursor: pointer;}
+.user .Dangxuat:hover {color: #ff6a00;}
+
+/*menu*/
+.menu {background-color: #0094ff;height: 30px;}
+.menu ul {line-height: 30px}
+.menu ul li {float: left;list-style: none;}
+.menu ul li a {padding: 7px 7px 0px 5px;}
+/*.menu ul li a:visited{color:#cccccc;text-decoration:none;}*/
+.menu ul .menu:hover { background-color: cadetblue;transform: scaleY(1.5);}
+.menu ul .Search {float: right;margin-right: 20px;}
+.menu ul .Search input {border-radius: 2px;border: 1px solid black;}
+.menu ul .Search .btnSearch {background-image: url('../../../pic/Search.jpg');height: 20px;width: 20px;background-repeat: no-repeat; background-size: 100% 100%;overflow: hidden;/*Tạo thụt đầu dòng;*/text-indent: 200px;}
+.menu ul .Search .btnSearch:hover {cursor: pointer;}
+.menu ul .Search .txtSearch {margin-right: 5px;}
+.menu ul .Search .txtSearch:focus {border: 1px solid aqua;height: 18px}
+
+/*content*/
+
+.content {margin-top: 40px;margin-left:5px;margin-right:5px;margin-bottom:5px;margin-bottom: 10px;color: black;font: normal;background:#FFF;}
+
+/*Danh Sách Sản Phẩm Sản phẩm*/
+.content .SanPham div .HinhAnh{margin:5px;width:188px;height:auto;float:left;border:1px solid black;border-radius:3px;box-sizing:border-box;}
+.content .SanPham div .HinhAnh img{margin:5px;width:170px;height:180px;}
+.content .SanPham a {text-decoration: none;color: black;}
+.content .SanPham .LoaiSanPham{margin-top: 54px;padding: 10px;margin-top: 54px;padding: 10px;}
+.content .SanPham a:hover{text-decoration:underline;color:#0034ff;}
+
+
+/*Danh Sách Loại Sản phẩm*/
+.content .LoaiSP .TenLoai{padding-top:20px;text-align:center;text-transform:uppercase;}
+.content .LoaiSP hr{margin:10px 20px 10px 20px;}
+.content .LoaiSP .ThongTinSanPham .AnhSP {margin: 5px;width: 188px;height: auto;float: left;text-align: center;border: 1px solid black;border-radius: 3px;box-sizing: border-box;}
+.content .LoaiSP .ThongTinSanPham .AnhSP img {margin: 5px;width: 170px;height: 180px;}
+.content .LoaiSP .ThongTinSanPham .AnhSP a {text-decoration: none;color: black;}
+.content .LoaiSP .ThongTinSanPham .AnhSP a:hover {text-decoration: underline;color: #0034ff;}
+
+    /*Chi tiết Sản phẩm*/
+.content .chitietsp {padding-top: 20px;margin-left: 100px;}
+.content .chitietsp .HinhAnhSP img {margin: 5px;width: 240px;height: 270px;}
+.content .chitietsp .HinhAnhSP { float: left;}
+.content .chitietsp .phancach { height:270px; margin:10px 20px; border-left:dashed #0034ff 4px;float:left; padding:20px;font-size:17px; font-weight:bold;}
+.content .chitietsp .phancach .namepr{font-size:25px; font-weight:bold; color:#935c35}
+.content .chitietsp .phancach hr{margin-top:17px;}
+.content .chitietsp .phancach hr:last-child{margin-bottom:17px;}
+.content .chitietsp .phancach a{background:#4cff00; color:black; border-radius:4px;font-weight:normal; padding:10px;margin-left:70px;box-sizing:border-box;cursor:pointer}
+.content .chitietsp .phancach a:hover{color:#6a87f7; text-decoration:underline}
+
+/*footer*/
+.footer {background-color: #808080;}

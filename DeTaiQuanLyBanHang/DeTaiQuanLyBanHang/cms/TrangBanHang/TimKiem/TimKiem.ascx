@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="TimKiem.ascx.cs" Inherits="DeTaiQuanLyBanHang.cms.TrangBanHang.TimKiem.TimKiem" %>
+<asp:Literal ID="ltTimKiem" runat="server"></asp:Literal>
