@@ -5,3 +5,9 @@ G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.csp
 G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.dll
 G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.pdb
 G:\WEBASP\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\ASP.NET\BaiTap\Shop_Vat_lieu_xay_dung\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\bin\DeTaiQuanLyBanHang.dll.config
+E:\ASP.NET\BaiTap\Shop_Vat_lieu_xay_dung\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\bin\DeTaiQuanLyBanHang.dll
+E:\ASP.NET\BaiTap\Shop_Vat_lieu_xay_dung\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\bin\DeTaiQuanLyBanHang.pdb
+E:\ASP.NET\BaiTap\Shop_Vat_lieu_xay_dung\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.csprojResolveAssemblyReference.cache
+E:\ASP.NET\BaiTap\Shop_Vat_lieu_xay_dung\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.dll
+E:\ASP.NET\BaiTap\Shop_Vat_lieu_xay_dung\DeTaiQuanLyBanHang\DeTaiQuanLyBanHang\obj\Debug\DeTaiQuanLyBanHang.pdb
