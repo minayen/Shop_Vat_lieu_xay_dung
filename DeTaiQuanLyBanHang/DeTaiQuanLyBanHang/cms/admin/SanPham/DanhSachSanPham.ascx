@@ -20,6 +20,6 @@
 </table>
 <script>
     function Xoa() {
-        return confirm("Bạn có chắc chắn muốn xóa sản phẩm này?");;
+        return confirm("Bạn có chắc chắn muốn xóa sản phẩm này?");
     }
 </script>

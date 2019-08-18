@@ -50,7 +50,7 @@ namespace DeTaiQuanLyBanHang
             SqlCommand cmd = new SqlCommand(sql, connection);
 
             connection.Open();
-            int result = cmd.ExecuteNonQuery(); connection.Close();
+            int result = cmd.ExecuteNonQuery();
             connection.Close();
             if (result != 0) { return true; }
             return false;
